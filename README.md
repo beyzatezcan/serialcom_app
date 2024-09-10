@@ -4,8 +4,8 @@
 This project is a Flutter application designed to establish serial communication between a mobile device and another device, such as a computer or hardware component, using the RS232 protocol. The app allows users to send data through a serial port via Android and iOS devices.
  
 ## Features:
-Send data via serial communication (RS232) to a connected device.
-Select and manage different serial ports.
+Send data via serial communication (RS232) to a connected device. 
+Select and manage different serial ports. 
 Display previous port information and sent data.
 
 ## How to Install:
@@ -25,8 +25,8 @@ Feel free to fork this repository and make pull requests. Contributions to impro
 Bu proje, mobil cihaz ile bir bilgisayar ya da donanım bileşeni gibi başka bir cihaz arasında RS232 protokolü kullanarak seri iletişim sağlayan bir Flutter uygulamasıdır. Uygulama, kullanıcıların seri port üzerinden veri göndermesini sağlar ve Android ve iOS cihazlarda çalışır.
 
 ## Özellikler:
-Seri iletişim (RS232) kullanarak bağlı bir cihaza veri gönderin.
-Farklı seri portları seçin ve yönetin.
+Seri iletişim (RS232) kullanarak bağlı bir cihaza veri gönderin. 
+Farklı seri portları seçin ve yönetin. 
 Önceki port bilgilerini ve gönderilen verileri görüntüleyin.
 
 ## Nasıl Yüklenir:
